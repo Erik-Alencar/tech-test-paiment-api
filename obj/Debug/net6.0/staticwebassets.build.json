@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ic+BtX4g9PCo4h5sDcVyfyCERa9YIPrj3BHJZK5tDLo=",
+  "Source": "tech-test-paiment-api",
+  "BasePath": "_content/tech-test-paiment-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
